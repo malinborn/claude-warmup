@@ -18,7 +18,7 @@ right away. Your next message anchors a fresh window through 4 PM.
 
 Example schedule:
 ```
-           6am    7     8     9    10    11    12    1pm    2     3     4     5     6
+           6am     7     8     9    10    11    12    1pm    2     3     4     5     6
              |     |     |     |     |     |     |     |     |     |     |     |     |
 
 Before:                  [========== window 1 =========]
